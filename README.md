@@ -7,8 +7,6 @@ This project is a **parking lot simulation** using **discrete event simulation (
 - Model a parking lot system with **capacity constraints** and **vehicle queues**.
 - Simulate **random vehicle arrivals and departures** over a set duration.
 - Track **key metrics** such as occupancy rates and waiting times.
-- Implement **a UML-based design** for modularity and scalability.
-- Provide **future extensibility** for smart parking or dynamic pricing.
 
 ## Project Structure
 ```
