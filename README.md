@@ -1,5 +1,3 @@
-# Discrete-Event-Parking
-
 # Parking Lot Simulation
 
 ## Overview
