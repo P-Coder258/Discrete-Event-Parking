@@ -15,4 +15,7 @@ This project is a **parking lot simulation** using **discrete event simulation (
 ├── 📄 simulation.py       # Main simulation logic
 ├── 📄 parking_lot.py      # ParkingLot class implementation
 ├── 📄 vehicle.py          # Vehicle class implementation
+├── 📄 UML_Diagram.png     # UML Diagram
+├── 📄 Design_Documentation.pdf     # Design Documentation
+├── 📄 Literature_Review.pdf        # Liturature Review
 ```
