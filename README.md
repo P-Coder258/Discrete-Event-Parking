@@ -1,7 +1,7 @@
 # Parking Lot Simulation
 
 ## Overview
-This project is a **parking lot simulation** using **discrete event simulation (DES)** to model vehicle arrivals, parking, and departures. The goal is to analyze parking lot efficiency, occupancy rates, and wait times using Python.
+This project is a parking lot simulation using discrete event simulation (DES) to model vehicle arrivals, parking, and departures. The goal is to analyze parking lot efficiency, occupancy rates, and wait times using Python.
 
 ## Implementation Goals
 - Model a parking lot system with **capacity constraints** and **vehicle queues**.
@@ -47,8 +47,3 @@ python simulation.py
 ## Notes
 - All data output is printed directly to the console.
 - Simulation parameters (duration, arrival rate, lot capacity) can be customized inside the `Simulation` class.
-- Future improvements include graphical data visualization and advanced logging.
-
----
-
-Feel free to open an issue or suggest improvements!
